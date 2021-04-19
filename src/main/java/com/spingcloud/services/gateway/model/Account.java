@@ -1,4 +1,4 @@
-package pl.piomin.services.gateway.model;
+package com.spingcloud.services.gateway.model;
 
 import lombok.Getter;
 import lombok.Setter;

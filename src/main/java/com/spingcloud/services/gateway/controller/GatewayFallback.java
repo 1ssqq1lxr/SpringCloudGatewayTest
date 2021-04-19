@@ -1,9 +1,8 @@
-package pl.piomin.services.gateway.controller;
-
+package com.spingcloud.services.gateway.controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pl.piomin.services.gateway.model.Account;
+import com.spingcloud.services.gateway.model.Account;
 
 @RestController
 @RequestMapping("/fallback")
